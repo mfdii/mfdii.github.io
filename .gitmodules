@@ -1,3 +1,6 @@
 [submodule "why_youre_destroying_devops"]
 	path = why_youre_destroying_devops
 	url = https://github.com/mfdii/why_youre_destroying_devops.git
+[submodule "chef_reveal.js"]
+	path = chef_reveal.js
+	url = git://github.com/mfdii/chef_reveal.js.git
