@@ -4,3 +4,6 @@
 [submodule "chef_reveal.js"]
 	path = chef_reveal.js
 	url = git://github.com/mfdii/chef_reveal.js.git
+[submodule "changing_infra"]
+	path = changing_infra
+	url = https://github.com/mfdii/changing_infra.git
